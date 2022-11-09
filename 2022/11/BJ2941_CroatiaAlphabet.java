@@ -20,14 +20,16 @@ public class BJ2941_CroatiaAlphabet {
                         i++;
                     }
                 }
-            } else if (ch == 'd') {
-                if (i < str.length() - 2) {
-                    if (str.charAt(i + 1) == 'z' && str.charAt(i + 2) == '=') {
+            }
+
+            else if(ch == 'd' && i < str.length() - 1) {
+                if(str.charAt(i + 1) == '-') {	// d- 일 경우
+                    i++;
+                }
+                else if(str.charAt(i + 1) == 'z' && i < str.length() - 2) {
+
+                    if(str.charAt(i + 2) == '=') {	// dz= 일 경우
                         i += 2;
-                    }
-                } else if () {
-                    if (str.charAt(i + 1) == '-') {
-                        i++;
                     }
                 }
             } else if (ch == 'l') {
