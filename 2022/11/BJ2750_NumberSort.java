@@ -1,11 +1,9 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class BJ2750_NumberSort {
 
-    // 출력값은 아스키코드 값이다.
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -17,33 +15,21 @@ public class BJ2750_NumberSort {
             arr[i] = Integer.parseInt(br.readLine());
         }
 
-        selection_sort(arr, arr.length);
-    }
+        //선택정렬
 
-    public static void selection_sort(int[] arr, int size) {
-
-        for (int i = 0; i < size - 1; i++) {
-            int min_index = i;
-
-            // 최소값을 갖고있는 인덱스 찾기
-            for (int j = i + 1; j < size; j++) {
-                if (arr[j] < arr[min_index]) {
-                    min_index = j;
+        for (int i = 0; i < N - 1; i++) {
+            for (int j = 0; j < N; j++) {
+                if (arr[i] > arr[j]) {
+                    int temp = arr[j];
+                    arr[j] = arr[i];
+                    arr[i] = temp;
                 }
             }
-
-            // i번째 값과 찾은 최소값을 서로 교환
-            swap(arr, i, min_index);
         }
 
         for (int val : arr) {
             System.out.println(val);
         }
     }
-
-    public static void swap(int[] arr, int i, int j) {
-        int temp = arr[j];
-        arr[j] = arr[i];
-        arr[i] = temp;
-    }
 }
+
