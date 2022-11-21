@@ -61,6 +61,5 @@ public class BJ2108_Statistics {
         //2. (N / 2) + 1 으로 배열 출력
         //3. Counting Sorting 으로 출력
         //4. 배열의 마지막과 처음을 뺀다.
-
     }
 }
