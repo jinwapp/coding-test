@@ -67,7 +67,6 @@ public class BJ10845_Queue {
         if (q.isEmpty()) System.out.println("1");
         else System.out.println("0");
     }
-
     public static void front() {
         if(q.size()==0) System.out.println("-1");
         else System.out.println(q.peek());
