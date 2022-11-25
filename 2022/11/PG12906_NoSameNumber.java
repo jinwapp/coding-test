@@ -1,27 +1,40 @@
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.Deque;
+import java.util.LinkedList;
 
 public class PG12906_NoSameNumber {
     public static void main(String[] args) throws IOException {
-        String[] partcipant = {"marina", "josipa", "nikola", "vinko", "filipa"};
-        String[] completion = {"josipa", "filipa", "marina", "nikola"};
-        PG12906_NoSameNumber pg42576_athelete = new PG12906_NoSameNumber();
-        pg42576_athelete.solution(partcipant, completion);
+        int[] arr = {4,4,4,3,3};
+        PG12906_NoSameNumber PG12906_NoSameNumber = new PG12906_NoSameNumber();
+        PG12906_NoSameNumber.solution(arr);
     }
 
-    public String solution(String[] participant, String[] completion) {
-        Arrays.sort(participant);
-        Arrays.sort(completion);
+    public int[] solution(int[] arr) {
+        Deque<Integer> q = new LinkedList<>();
 
-        for (int i = 0; i < completion.length; i++) {
+        int N = arr.length;
 
-            if (!participant[i].equals(completion[i])) {
-                return participant[i];
+        q.add(arr[0]);
+
+        for (int i = 1; i < N; i++) {
+            if (q.getLast().equals(arr[i])) {
+                continue;
+            } else {
+                q.add(arr[i]);
             }
         }
-        return participant[participant.length - 1];
+
+        int N2 = q.size();
+        int[] res = new int[q.size()];
+
+        for (int i = 0; i < N2; i++) {
+            res[i] = q.pollFirst();
+        }
+        return res;
     }
 }
+
 
 /* HashMap을 이용하여 문제풀이
 public class PG42576_Athelete {
