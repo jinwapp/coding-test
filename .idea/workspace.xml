@@ -5,225 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/duplicateNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/tallerPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DailyCoding.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/.idea/10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ1008_AB.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1008_AB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10171_Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10171_Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10172_Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10172_Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10430_Remainder.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10430_Remainder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ1065_HanSoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10807_NumberCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10807_NumberCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10818_MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10818_MinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ1085_EscapeFromRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1085_EscapeFromRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10869_Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10869_Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10871_NumberLessThanX.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10871_NumberLessThanX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10951_APlusBMinus4.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10951_APlusBMinus4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10952_APlusBMinus5.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10952_APlusBMinus5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ10998_AB.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10998_AB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ11021_APlusBMinus7.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11021_APlusBMinus7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ11022_APlusBMinus8.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11022_APlusBMinus8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ1110_AddCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1110_AddCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ11654_AsciiCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ1546_Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1546_Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ15552_SpeedAplusB.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ15552_SpeedAplusB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ1672_DNA.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1672_DNA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ18108_Thailand.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ18108_Thailand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2438_Star1.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2438_Star1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2439_Star2.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2439_Star2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ25083_SaeSsac.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ25083_SaeSsac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2525_OverClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2525_OverClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ25304_Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ25304_Receipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2557_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2557_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2562_MaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2562_MaxValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2563_ColorPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2563_ColorPaper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2566_MaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2566_MaxValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2738_MatrixAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2738_MatrixAdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2739_GooGooDan.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2739_GooGooDan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ2884_AlarmClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2884_AlarmClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ3052_Reminder.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ3052_Reminder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ4344_MaybeAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ4344_MaybeAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ4673_SelfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ4673_SelfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ4673_SelfNumber2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ5597_HomeworkPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ5597_HomeworkPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ8393_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ8393_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/BJ8958_OXQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ8958_OXQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/Bj10950_APlusBMinus3.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/Bj10950_APlusBMinus3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/Mountain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/.idea/10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ1008_AB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10171_Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10172_Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10430_Remainder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10807_NumberCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10818_MinMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ1085_EscapeFromRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10869_Calculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10871_NumberLessThanX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10951_APlusBMinus4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10952_APlusBMinus5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ10998_AB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ11021_APlusBMinus7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ11022_APlusBMinus8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ1110_AddCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ1546_Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ15552_SpeedAplusB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ1672_DNA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ18108_Thailand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2438_Star1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2439_Star2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ25083_SaeSsac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2525_OverClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ25304_Receipt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2557_HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2562_MaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2563_ColorPaper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2566_MaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2738_MatrixAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2739_GooGooDan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ2884_AlarmClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ3052_Reminder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ4344_MaybeAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ4673_SelfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ5597_HomeworkPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ8393_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/BJ8958_OXQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/Bj10950_APlusBMinus3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/10/out/production/10/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ10809_FindAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10809_FindAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ10816_NumberCard2.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10816_NumberCard2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ10828_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10828_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ10845_Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10845_Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ10866_Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10866_Deque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ10989_NumberSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ10989_NumberSort3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ11047_Coin0.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11047_Coin0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ1152_WordLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1152_WordLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ1157_WordStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1157_WordStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ11651_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11651_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ11652_Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11652_Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ11654_AsciiCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ11720_SumOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11720_SumOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ11866_Yosepus0.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11866_Yosepus0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ1316_GroupWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1316_GroupWordChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ1427_SortInside.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1427_SortInside.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ14425_StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ14425_StringArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ14720_MilkFestival.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ14720_MilkFestival.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ1764_JobGut.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1764_JobGut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ1920_NumberSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1920_NumberSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2108_Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2108_Statistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2231_BoonHaeHap.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2231_BoonHaeHap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ25305_CutLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ25305_CutLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2587_ImportantValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2587_ImportantValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2606_Virus.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2606_Virus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2675_StringRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2675_StringRepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2702_ElementaryMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2702_ElementaryMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2720_DongHyuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2720_DongHyuk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2748_FibonacciNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2748_FibonacciNumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2750_NumberSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2750_NumberSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2750_NumberSort_CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2750_NumberSort_CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2751_NumberSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2751_NumberSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2798_BlackJack.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2798_BlackJack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2839_Sugar.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2839_Sugar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2851_SuperMario.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2851_SuperMario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2908_SangSoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2908_SangSoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ2941_CroatiaAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ2941_CroatiaAlphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ4673_SelfNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ5622_Dial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/BJ7568_DungChi.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ7568_DungChi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/PG12906_NoSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/PG12906_NoSameNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/PG12906_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/PG12906_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/PG42576_Athelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/PG42576_Athelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/note2.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/note2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ10809_FindAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ10816_NumberCard2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ10828_Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ10845_Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ10866_Deque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ10989_NumberSort3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ11047_Coin0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ1152_WordLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ1157_WordStudy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ11652_Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ11654_AsciiCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ11720_SumOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ11866_Yosepus0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ1316_GroupWordChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ1427_SortInside.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ14425_StringArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ14720_MilkFestival.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ1764_JobGut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ1920_NumberSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2108_Statistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2231_BoonHaeHap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ25305_CutLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2587_ImportantValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2675_StringRepeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2702_ElementaryMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2720_DongHyuk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2748_FibonacciNumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2750_NumberSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2750_NumberSort_CountingSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2751_NumberSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2798_BlackJack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2839_Sugar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2851_SuperMario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2908_SangSoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ2941_CroatiaAlphabet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ4673_SelfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ5622_Dial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/BJ7568_DungChi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/DFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/PG12906_NoSameNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/PG12906_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/PG42576_Athelete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/11/out/production/11/note2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/.idea/12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/BJ11399_ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11399_ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/BJ11726_2mulnTyling.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ11726_2mulnTyling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/BJ1620_PoketmonMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/BJ1620_PoketmonMaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/.idea/12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/BJ11399_ATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/BJ11726_2mulnTyling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022/12/out/production/12/BJ1620_PoketmonMaster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/evenOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,16 +60,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tallerPerson">
+  <component name="RunManager" selected="Application.evenOddNumber">
     <configuration name="BJ10171_Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BJ10171_Cat" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BJ14425_StringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BJ14425_StringArray" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -306,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="evenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evenOddNumber" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tallerPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tallerPerson" />
       <module name="coding-test" />
@@ -315,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.evenOddNumber" />
         <item itemvalue="Application.tallerPerson" />
         <item itemvalue="Application.duplicateNumbers" />
         <item itemvalue="Application.BJ10171_Cat" />
         <item itemvalue="Application.BJ1620_PoketmonMaster" />
-        <item itemvalue="Application.BJ14425_StringArray" />
       </list>
     </recent_temporary>
   </component>
@@ -335,11 +118,23 @@
       <workItem from="1681528578586" duration="3018000" />
       <workItem from="1681531671209" duration="1341000" />
       <workItem from="1681806198828" duration="2744000" />
+      <workItem from="1681895778313" duration="1995000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/programmers/evenOddNumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
