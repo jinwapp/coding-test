@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/evenOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/otherPersonSolve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,16 +60,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.evenOddNumber">
+  <component name="RunManager" selected="Application.otherPersonSolve">
     <configuration name="BJ10171_Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BJ10171_Cat" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BJ1620_PoketmonMaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BJ1620_PoketmonMaster" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="otherPersonSolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="otherPersonSolve" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tallerPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tallerPerson" />
       <module name="coding-test" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.otherPersonSolve" />
         <item itemvalue="Application.evenOddNumber" />
         <item itemvalue="Application.tallerPerson" />
         <item itemvalue="Application.duplicateNumbers" />
         <item itemvalue="Application.BJ10171_Cat" />
-        <item itemvalue="Application.BJ1620_PoketmonMaster" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +118,7 @@
       <workItem from="1681528578586" duration="3018000" />
       <workItem from="1681531671209" duration="1341000" />
       <workItem from="1681806198828" duration="2744000" />
-      <workItem from="1681895778313" duration="1995000" />
+      <workItem from="1681895778313" duration="5113000" />
     </task>
     <servers />
   </component>
