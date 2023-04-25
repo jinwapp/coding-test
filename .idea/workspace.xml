@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/otherPersonSolve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backjoon/PG_Pocketmon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +118,8 @@
       <workItem from="1681528578586" duration="3018000" />
       <workItem from="1681531671209" duration="1341000" />
       <workItem from="1681806198828" duration="2744000" />
-      <workItem from="1681895778313" duration="5113000" />
+      <workItem from="1681895778313" duration="5930000" />
+      <workItem from="1682313476954" duration="3083000" />
     </task>
     <servers />
   </component>
