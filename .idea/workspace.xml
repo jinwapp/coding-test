@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/ongale1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/phoneList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/PG_Pocketmon.java" beforeDir="false" afterPath="$PROJECT_DIR$/backjoon/PG_Pocketmon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backjoon/PG_Pocketmon.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/pocketmon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -56,18 +58,14 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/backjoon" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PG_Pocketmon">
-    <configuration name="PG_Pocketmon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PG_Pocketmon" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pocketmon">
     <configuration name="duplicateNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duplicateNumbers" />
       <module name="coding-test" />
@@ -89,6 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pocketmon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pocketmon" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tallerPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tallerPerson" />
       <module name="coding-test" />
@@ -98,7 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PG_Pocketmon" />
+        <item itemvalue="Application.pocketmon" />
         <item itemvalue="Application.otherPersonSolve" />
         <item itemvalue="Application.evenOddNumber" />
         <item itemvalue="Application.tallerPerson" />
@@ -119,7 +124,10 @@
       <workItem from="1681531671209" duration="1341000" />
       <workItem from="1681806198828" duration="2744000" />
       <workItem from="1681895778313" duration="5930000" />
-      <workItem from="1682313476954" duration="5798000" />
+      <workItem from="1682313476954" duration="8165000" />
+      <workItem from="1682442885375" duration="1396000" />
+      <workItem from="1682473361536" duration="1827000" />
+      <workItem from="1682613162878" duration="2083000" />
     </task>
     <servers />
   </component>

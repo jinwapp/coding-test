@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class PG_Pocketmon {
+public class pocketmon {
     public static void main(String[] args) {
         int[] nums = {3, 3, 3, 2,2,2};
         System.out.println(solution(nums));
