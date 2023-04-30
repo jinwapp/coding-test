@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/ongale1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/phoneList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backjoon/PG_Pocketmon.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/pocketmon.java" afterDir="false" />
-    </list>
+    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +123,7 @@
       <workItem from="1682442885375" duration="1396000" />
       <workItem from="1682473361536" duration="1827000" />
       <workItem from="1682613162878" duration="2083000" />
+      <workItem from="1682775591642" duration="758000" />
     </task>
     <servers />
   </component>
