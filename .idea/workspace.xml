@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="" />
+    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/phoneList.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/phoneList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,14 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pocketmon">
-    <configuration name="duplicateNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duplicateNumbers" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.phoneList">
     <configuration name="evenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="evenOddNumber" />
       <module name="coding-test" />
@@ -77,6 +73,13 @@
     </configuration>
     <configuration name="otherPersonSolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="otherPersonSolve" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phoneList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phoneList" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.phoneList" />
         <item itemvalue="Application.pocketmon" />
         <item itemvalue="Application.otherPersonSolve" />
         <item itemvalue="Application.evenOddNumber" />
         <item itemvalue="Application.tallerPerson" />
-        <item itemvalue="Application.duplicateNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +127,8 @@
       <workItem from="1682473361536" duration="1827000" />
       <workItem from="1682613162878" duration="2083000" />
       <workItem from="1682775591642" duration="758000" />
+      <workItem from="1682865611293" duration="714000" />
+      <workItem from="1682933351205" duration="4073000" />
     </task>
     <servers />
   </component>
