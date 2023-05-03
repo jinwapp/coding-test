@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="" />
+    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/statePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -60,7 +64,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.clothes">
+  <component name="RunManager" selected="Application.note">
     <configuration name="clothes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clothes" />
       <module name="coding-test" />
@@ -68,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="evenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evenOddNumber" />
+    <configuration name="note" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="note" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.note" />
         <item itemvalue="Application.clothes" />
         <item itemvalue="Application.phoneList" />
         <item itemvalue="Application.pocketmon" />
         <item itemvalue="Application.otherPersonSolve" />
-        <item itemvalue="Application.evenOddNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +130,8 @@
       <workItem from="1682775591642" duration="758000" />
       <workItem from="1682865611293" duration="714000" />
       <workItem from="1682933351205" duration="6930000" />
-      <workItem from="1682988885136" duration="4275000" />
+      <workItem from="1682988885136" duration="5320000" />
+      <workItem from="1683076308013" duration="4856000" />
     </task>
     <servers />
   </component>
