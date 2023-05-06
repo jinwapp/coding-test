@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="" />
+    <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/clothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/clothes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.note">
+  <component name="RunManager" selected="Application.clothes">
     <configuration name="clothes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clothes" />
       <module name="coding-test" />
@@ -99,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.note" />
         <item itemvalue="Application.clothes" />
+        <item itemvalue="Application.note" />
         <item itemvalue="Application.phoneList" />
         <item itemvalue="Application.pocketmon" />
         <item itemvalue="Application.otherPersonSolve" />
@@ -129,6 +132,7 @@
       <workItem from="1682933351205" duration="6930000" />
       <workItem from="1682988885136" duration="5320000" />
       <workItem from="1683076308013" duration="5000000" />
+      <workItem from="1683295468513" duration="2530000" />
     </task>
     <servers />
   </component>
