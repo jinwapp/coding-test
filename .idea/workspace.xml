@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/bestAlbum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/clothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/clothes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +64,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.clothes">
+  <component name="RunManager" selected="Application.bestAlbum">
+    <configuration name="bestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bestAlbum" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="clothes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clothes" />
       <module name="coding-test" />
@@ -74,13 +81,6 @@
     </configuration>
     <configuration name="note" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="note" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="otherPersonSolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="otherPersonSolve" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bestAlbum" />
         <item itemvalue="Application.clothes" />
         <item itemvalue="Application.note" />
         <item itemvalue="Application.phoneList" />
         <item itemvalue="Application.pocketmon" />
-        <item itemvalue="Application.otherPersonSolve" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <workItem from="1682933351205" duration="6930000" />
       <workItem from="1682988885136" duration="5320000" />
       <workItem from="1683076308013" duration="5000000" />
-      <workItem from="1683295468513" duration="2530000" />
+      <workItem from="1683295468513" duration="7877000" />
     </task>
     <servers />
   </component>
