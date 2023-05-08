@@ -14,15 +14,14 @@ public class bestAlbum {
     public static int solution(String[] genres, int[] plays) {
 
         HashMap<String, Integer> hp = new HashMap<>();
-        int[] sort = new int[100000000];
 
         for (int i = 0; i < genres.length; i++) {
             hp.put(genres[i], hp.getOrDefault(genres[i],0)+plays[i]);
         }
 
         for (int value : hp.values()) {
-
-
+            int[] sort = new int[100000000];
+            srt
 
         }
 
