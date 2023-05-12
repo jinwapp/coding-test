@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/programmers/bestAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/bestAlbum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/statepatternno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/statepatternyes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/GreenLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/RedLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/TrafficLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/bestAlbum$Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/bestAlbum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/bestAlbum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/statePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/statePattern.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,7 +78,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bestAlbum">
+  <component name="RunManager" selected="Application.K">
+    <configuration name="K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bestAlbum" />
       <module name="coding-test" />
@@ -92,20 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pocketmon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pocketmon" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.K" />
         <item itemvalue="Application.bestAlbum" />
         <item itemvalue="Application.clothes" />
         <item itemvalue="Application.note" />
         <item itemvalue="Application.phoneList" />
-        <item itemvalue="Application.pocketmon" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +149,8 @@
       <workItem from="1683295468513" duration="8269000" />
       <workItem from="1683525370744" duration="607000" />
       <workItem from="1683554043132" duration="1944000" />
-      <workItem from="1683721267199" duration="2011000" />
+      <workItem from="1683721267199" duration="4448000" />
+      <workItem from="1683878699233" duration="4475000" />
     </task>
     <servers />
   </component>
@@ -148,6 +164,11 @@
           <url>file://$PROJECT_DIR$/programmers/evenOddNumber.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/programmers/K.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
