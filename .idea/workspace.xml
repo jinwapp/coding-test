@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/statepatternno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/statepatternyes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/GreenLight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/RedLight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/TrafficLight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/bestAlbum$Song.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/bestAlbum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/bestAlbum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/statePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/statePattern.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +139,7 @@
       <workItem from="1683525370744" duration="607000" />
       <workItem from="1683554043132" duration="1944000" />
       <workItem from="1683721267199" duration="4448000" />
-      <workItem from="1683878699233" duration="4475000" />
+      <workItem from="1683878699233" duration="5114000" />
     </task>
     <servers />
   </component>
