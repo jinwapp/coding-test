@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/study/ListValueCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +47,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jay/Documents/Github/coding-test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jinw/develop/github/coding-test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -67,7 +71,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.K">
+  <component name="RunManager" selected="Application.ListValueCheck">
     <configuration name="K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="K" />
       <module name="coding-test" />
@@ -75,22 +79,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bestAlbum" />
+    <configuration name="ListValueCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListValueCheck" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clothes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clothes" />
-      <module name="coding-test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="note" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="note" />
+    <configuration name="ongale1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ongale1" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,13 +100,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pocketmon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pocketmon" />
+      <module name="coding-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.K" />
-        <item itemvalue="Application.bestAlbum" />
-        <item itemvalue="Application.clothes" />
-        <item itemvalue="Application.note" />
+        <item itemvalue="Application.ListValueCheck" />
+        <item itemvalue="Application.pocketmon" />
         <item itemvalue="Application.phoneList" />
+        <item itemvalue="Application.ongale1" />
+        <item itemvalue="Application.K" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +146,9 @@
       <workItem from="1683878699233" duration="5114000" />
       <workItem from="1683986628040" duration="3533000" />
       <workItem from="1684225182126" duration="2141000" />
+      <workItem from="1690595936268" duration="188000" />
+      <workItem from="1690596131277" duration="16370000" />
+      <workItem from="1691307072716" duration="1498000" />
     </task>
     <servers />
   </component>
@@ -160,6 +167,11 @@
           <url>file://$PROJECT_DIR$/programmers/K.java</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/coding-test/tallerPerson.class</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
