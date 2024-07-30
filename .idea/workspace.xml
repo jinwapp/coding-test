@@ -5,11 +5,118 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/study/ListValueCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding-test/ListValueCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding-test/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding-test/Pocketmon_240729.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding-test/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding-test/featureDevlop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/NonFinisher_240729.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/Pocketmon_240729.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/featureDevlop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1008_AB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1008_AB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10171_Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10171_Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10172_Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10172_Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10430_Remainder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10430_Remainder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10807_NumberCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10807_NumberCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10809_FindAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10809_FindAlphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10816_NumberCard2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10816_NumberCard2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10818_MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10818_MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10828_Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10828_Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10845_Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10845_Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1085_EscapeFromRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1085_EscapeFromRectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10866_Deque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10866_Deque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10869_Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10869_Calculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10871_NumberLessThanX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10871_NumberLessThanX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10951_APlusBMinus4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10951_APlusBMinus4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10952_APlusBMinus5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10952_APlusBMinus5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10989_NumberSort3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10989_NumberSort3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ10998_AB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ10998_AB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11021_APlusBMinus7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11021_APlusBMinus7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11022_APlusBMinus8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11022_APlusBMinus8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11047_Coin0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11047_Coin0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1110_AddCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1110_AddCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11399_ATM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11399_ATM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1152_WordLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1152_WordLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1157_WordStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1157_WordStudy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11651_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11651_Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11652_Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11652_Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11720_SumOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11720_SumOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11726_2mulnTyling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11726_2mulnTyling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ11866_Yosepus0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ11866_Yosepus0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1316_GroupWordChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1316_GroupWordChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1427_SortInside.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1427_SortInside.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ14425_StringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ14425_StringArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ14720_MilkFestival.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ14720_MilkFestival.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1546_Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1546_Average.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ15552_SpeedAplusB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ15552_SpeedAplusB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1620_PoketmonMaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1620_PoketmonMaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1672_DNA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1672_DNA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1764_JobGut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1764_JobGut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ18108_Thailand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ18108_Thailand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ1920_NumberSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ1920_NumberSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2108_Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2108_Statistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2231_BoonHaeHap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2231_BoonHaeHap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2438_Star1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2438_Star1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2439_Star2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2439_Star2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ25083_SaeSsac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ25083_SaeSsac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2525_OverClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2525_OverClock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ25304_Receipt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ25304_Receipt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ25305_CutLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ25305_CutLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2557_HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2557_HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2562_MaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2562_MaxValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2563_ColorPaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2563_ColorPaper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2566_MaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2566_MaxValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2587_ImportantValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2587_ImportantValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2606_Virus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2606_Virus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2675_StringRepeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2675_StringRepeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2702_ElementaryMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2702_ElementaryMath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2720_DongHyuk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2720_DongHyuk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2738_MatrixAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2738_MatrixAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2739_GooGooDan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2739_GooGooDan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2748_FibonacciNumber2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2748_FibonacciNumber2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2750_NumberSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2750_NumberSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2750_NumberSort_CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2750_NumberSort_CountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2751_NumberSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2751_NumberSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2798_BlackJack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2798_BlackJack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2839_Sugar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2839_Sugar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2851_SuperMario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2851_SuperMario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2884_AlarmClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2884_AlarmClock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2908_SangSoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2908_SangSoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ2941_CroatiaAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ2941_CroatiaAlphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ3052_Reminder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ3052_Reminder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ4344_MaybeAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ4344_MaybeAverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ4673_SelfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ4673_SelfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ5597_HomeworkPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ5597_HomeworkPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ7568_DungChi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ7568_DungChi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ8393_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ8393_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/BJ8958_OXQuiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/BJ8958_OXQuiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Bj10950_APlusBMinus3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/Bj10950_APlusBMinus3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/K.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/K.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/PG12906_NoSameNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/PG12906_NoSameNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/PG12906_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/PG12906_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/PG42576_Athelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/PG42576_Athelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/bestAlbum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/bestAlbum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/clothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/clothes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/duplicateNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/duplicateNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/evenOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/evenOddNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/note2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/note2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/ongale1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/ongale1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/otherPersonSolve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/otherPersonSolve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/phoneList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/phoneList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/pocketmon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/pocketmon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/statepatternno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/statepatternno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/tallerPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/tallerPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/statepatternno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/statepatternyes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/ListValueCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/ListValueCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,24 +149,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jinw/develop/github/coding-test&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jinw/develop/github/coding-test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/backjoon" />
@@ -71,7 +180,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListValueCheck">
+  <component name="RunManager" selected="Application.Pocketmon_240729">
     <configuration name="K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="K" />
       <module name="coding-test" />
@@ -86,22 +195,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ongale1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ongale1" />
+    <configuration name="Pocketmon_240729" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pocketmon_240729" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="phoneList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phoneList" />
+    <configuration name="bestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bestAlbum" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pocketmon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pocketmon" />
+    <configuration name="clothes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clothes" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListValueCheck" />
-        <item itemvalue="Application.pocketmon" />
-        <item itemvalue="Application.phoneList" />
-        <item itemvalue="Application.ongale1" />
+        <item itemvalue="Application.Pocketmon_240729" />
         <item itemvalue="Application.K" />
+        <item itemvalue="Application.clothes" />
+        <item itemvalue="Application.bestAlbum" />
+        <item itemvalue="Application.ListValueCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +257,18 @@
       <workItem from="1684225182126" duration="2141000" />
       <workItem from="1690595936268" duration="188000" />
       <workItem from="1690596131277" duration="16370000" />
-      <workItem from="1691307072716" duration="1498000" />
+      <workItem from="1691307072716" duration="3147000" />
+      <workItem from="1692434822279" duration="2082000" />
+      <workItem from="1693409179447" duration="2612000" />
+      <workItem from="1694348626326" duration="598000" />
+      <workItem from="1695041480570" duration="608000" />
+      <workItem from="1696834081089" duration="653000" />
+      <workItem from="1696863748687" duration="609000" />
+      <workItem from="1697120081953" duration="2000" />
+      <workItem from="1722179971237" duration="4050000" />
+      <workItem from="1722255900906" duration="169000" />
+      <workItem from="1722260311335" duration="26000" />
+      <workItem from="1722356149847" duration="214000" />
     </task>
     <servers />
   </component>
@@ -164,14 +284,14 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/programmers/K.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/out/production/coding-test/tallerPerson.class</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/backjoon/BJ2108_Statistics.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
