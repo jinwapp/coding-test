@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8adba3fd-a153-48c7-999f-a416cef42a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/PhoneNumberList_240804.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Pocketmon_240729.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/Pocketmon_240729.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding-test/statepatternno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/NonFinisher_240729.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/NonFinisher_240729.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NonFinisher_240729">
+  <component name="RunManager" selected="Application.PhoneNumberList_240804">
     <configuration name="K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="K" />
       <module name="coding-test" />
@@ -89,15 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pocketmon_240729" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pocketmon_240729" />
+    <configuration name="PhoneNumberList_240804" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberList_240804" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bestAlbum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bestAlbum" />
+    <configuration name="Pocketmon_240729" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pocketmon_240729" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneNumberList_240804" />
         <item itemvalue="Application.NonFinisher_240729" />
         <item itemvalue="Application.Pocketmon_240729" />
         <item itemvalue="Application.K" />
         <item itemvalue="Application.clothes" />
-        <item itemvalue="Application.bestAlbum" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +158,7 @@
       <workItem from="1722179971237" duration="4050000" />
       <workItem from="1722255900906" duration="169000" />
       <workItem from="1722260311335" duration="26000" />
-      <workItem from="1722356149847" duration="8675000" />
+      <workItem from="1722356149847" duration="13409000" />
     </task>
     <servers />
   </component>
