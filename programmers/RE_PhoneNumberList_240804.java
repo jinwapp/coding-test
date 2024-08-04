@@ -1,13 +1,9 @@
-import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
-import static java.util.stream.Collectors.toSet;
-
-public class PhoneNumberList_240804 {
+/**
+ * Hash로 다시 풀기
+ */
+public class RE_PhoneNumberList_240804 {
 
     public static void main(String[] args) {
         String[] phone_book = {"119", "97674223", "1195524421"};
